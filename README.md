@@ -34,7 +34,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 # Acknowledgments
 This project was inspired by the need for a more efficient and effective way for gym owners to manage their gym members, trainers, and equipment.
- 
+# links
 SQL Java Connecter Link:
 https://dev.mysql.com/downloads/connector/j/5.1.html
 
